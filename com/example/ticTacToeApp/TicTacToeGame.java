@@ -1,4 +1,4 @@
-package TicTacToe;
+package com.example.ticTacToeApp;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -9,10 +9,7 @@ import java.awt.event.ComponentEvent;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
-/*
- * To make .jar file do:
- * jar cvfm TicTacToe.jar manifest.txt *.class
- */
+
 
 public class TicTacToeGame {
     private final int NUMBER_OF_BUTTONS = 9;
